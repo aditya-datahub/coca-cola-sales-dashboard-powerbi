@@ -21,10 +21,12 @@ The dashboard is built to support **data-driven decision-making** with intuitive
 ## 🚀 Key Features
 
 - 📌 **KPI Cards**
-  - Total Sales
-  - Operating Profit
-  - Units Sold
-  - Operating Margin  
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Sales-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Profit-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Units_Sold-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Margin-red?style=for-the-badge" />
+</p>
 
 - 📅 **Dynamic Date Filter**
   - Analyze data across custom time ranges  
