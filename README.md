@@ -32,12 +32,15 @@ The dashboard is built to support **data-driven decision-making** with intuitive
   - Analyze data across custom time ranges  
 
 - 🥤 **Brand-wise Analysis**
-  - Coca-Cola  
-  - Dasani Water  
-  - Diet Coke  
-  - Fanta  
-  - Powerade  
-  - Sprite  
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Coca--Cola-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dasani_Water-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Diet_Coke-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fanta-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powerade-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sprite-green?style=for-the-badge" />
+</p>
 
 - 📈 **Operating Profit Analysis**
   - Key influencers affecting profit increase  
